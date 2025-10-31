@@ -1,11 +1,11 @@
 # Site
-name: 'The Campus Chronicle'
-description: "Union County Vocational-Technical Schools' Student Newspaper."
+name: 'Graft'
+description: "Graft: the multilingual review of the Claremont Colleges."
 logo: 'assets/images/logo.jpeg'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-disqus: 'the-campus-chronicle'
-email: 'akashdub06@gmail.com'
+disqus: 'Graft'
+email: 'jzdj2025@mymail.pomona.edu'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -19,14 +19,22 @@ plugins:
   - jekyll-seo-tag
   
 authors:
+    bowen:
+        name:           Bowen Xu
+        avatar:         /assets/images/avatars/bowen.jpg
+        role:           Editor-In-Chief
+        bio:            "JINYAO JOIN THE WHATSAPP GROUP"
+        email:          bxvg2025@mymail.pomona.edu
+        school:         Pomona
+        grade:          Freshman
     anusha:
-      name:           Anusha Iyer
+      name:           Bowen Xu
       avatar:         /assets/images/avatars/anonymous.jpg
       role:           Editor-In-Chief
-      bio:            "Hi, I am Anusha Iyer!"
-      email:          no_reply@ucvts.org
-      school:         AIT
-      grade:          Alumni
+      bio:            "JINYAO JOIN THE WHATSAPP GROUP"
+      email:          bxvg2025@mymail.pomona.edu
+      school:         Pomona
+      grade:          Freshman
     dylan:
       name:           Dylan Intwala
       avatar:         /assets/images/avatars/anonymous.jpg

@@ -5,9 +5,9 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 :root {
-  --blue: #7832e2;
-  --indigo: #502c6c;
-  --purple: #ad6edd;
+  --blue: #32a852;
+  --indigo: #387549;
+  --purple: #5c3511;
   --pink: #ff0266;
   --red: #ea2f65;
   --orange: #fbb500;
@@ -85,7 +85,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 }
 
 .layout-editor-card:hover {
-  background-color: #EDCA1A;
+  background-color: #25d61c;
 }
 
 .opinion-editor-card {
