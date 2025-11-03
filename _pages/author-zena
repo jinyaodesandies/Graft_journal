@@ -1,0 +1,71 @@
+ ---
+    title: "FULL NAME"
+    layout: default
+    permalink: "/author-full-name.html"
+    ---
+    {% assign site_author = site.authors.username %}
+    {% assign name = "username" %}
+    {% include author-content.html %}
+ ---
+    title: "FULL NAME"
+    layout: default
+    permalink: "/author-full-name.html"
+    ---
+    {% assign site_author = site.authors.username %}
+    {% assign name = "username" %}
+    {% include author-content.html %}
+
+
+ ---
+    title: "FULL NAME"
+    layout: default
+    permalink: "/author-full-name.html"
+    ---
+    {% assign site_author = site.authors.username %}
+    {% assign name = "username" %}
+    {% include author-content.html %}
+
+
+
+ ---
+    title: "FULL NAME"
+    layout: default
+    permalink: "/author-full-name.html"
+    ---
+    {% assign site_author = site.authors.username %}
+    {% assign name = "username" %}
+    {% include author-content.html %}
+
+
+
+ ---
+    title: "FULL NAME"
+    layout: default
+    permalink: "/author-full-name.html"
+    ---
+    {% assign site_author = site.authors.username %}
+    {% assign name = "username" %}
+    {% include author-content.html %}
+
+
+
+
+
+
+ ---
+    title: "FULL NAME"
+    layout: default
+    permalink: "/author-full-name.html"
+    ---
+    {% assign site_author = site.authors.username %}
+    {% assign name = "username" %}
+    {% include author-content.html %}
+
+ ---
+    title: "FULL NAME"
+    layout: default
+    permalink: "/author-full-name.html"
+    ---
+    {% assign site_author = site.authors.username %}
+    {% assign name = "username" %}
+    {% include author-content.html %}
