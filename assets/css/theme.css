@@ -31,10 +31,10 @@ a,a:hover {
 	text-decoration:none;
 }
 a {
-	color:#03a87c;
+	color:#2f5d50;
 }
 a.text-dark:hover {
-	color:#03a87c !important;
+	color:#2f5d50 !important;
 }
 .c-pointer:hover {
 	cursor:pointer;
@@ -89,7 +89,7 @@ a.text-dark:hover {
 	position:relative;
 }
 .btn:hover,.btn:focus {
-	outline:0 !important;
+	outline:1 !important;
 }
 .btn .badge {
 	position:absolute;
