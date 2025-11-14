@@ -33,14 +33,13 @@ layout: default
                         </span>
 					</p>
 					<h1 class="display-4 mb-4 article-headline">{{ page.title }}</h1>
-					{% for author in page.author %}
+					<!--{% for author in page.author %}
 					{% assign writer = site.authors[author]  %}
 					<div class="d-flex align-items-center mb-3 article-card {% if writer.role == 'Member' %} bg-white {% endif %} {{ writer.role | slugify }}-card rounded">
                         {% if writer.avatar %}
                         <img class="rounded-circle align-self-center pb-1 pl-1" src="{{writer.avatar}}" alt="{{writer.name}}" width="70"/>
                         {% endif %}
-						<div class="{% if page.image %} col-md-6 {% else %} col-md-8 {% endif %} pr-0 pr-md-4 pt-1 align-self-center" onclick="redirectToOtherArticles('{{ writer.name }}')">
-							<!-- ... (existing code) ... -->
+						<div class="{% if page.image %} col-md-6 {% else %} col-md-8 {% endif %} pr-0 pr-md-4 pt-1 align-self-center" onclick="redirectToOtherArticles('{{ writer.name }}')"> -->
 							<p class="ml-2 mt-1">
 							<h6>{{ writer.name }}</h6>
 							<span class="d-block mt-1 d-flex">{{ writer.grade }} at {{ writer.school }}</span>
@@ -91,7 +90,7 @@ layout: default
 				</span>
 			</div>
  
-            <!-- Mailchimp Subscribe Form -->
+            <!--  Mailchimp Subscribe Form 
             {% comment %} {% if site.mailchimp-list %}
 			<div class="border p-5 bg-lightblue">
 				<div class="row justify-content-between">
@@ -116,7 +115,7 @@ layout: default
 				</div>
 			</div>
             {% endif %} {% endcomment %}
-            
+            -->
             
              <!-- Author Box -->
 
@@ -155,7 +154,7 @@ layout: default
 </div>
 
 
-<!-- Aletbar Prev/Next -->
+<!-- Aletbar Prev/Next 
 <div class="alertbar">
     <div class="container">
         <div class="row prevnextlinks small font-weight-bold">
@@ -172,3 +171,4 @@ layout: default
         </div>
     </div>
 </div>
+-->

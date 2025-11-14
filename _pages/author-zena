@@ -1,8 +1,0 @@
----
-title: "Zena Almeida-Warwin"
-layout: default
-permalink: "/author-zena-almeida-warwin.html"
----
-{% assign site_author = site.authors.zena %}
-{% assign name = "zena" %}
-{% include author-content.html %}
